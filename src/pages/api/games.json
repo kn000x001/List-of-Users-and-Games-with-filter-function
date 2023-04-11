@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "Name": "Poker",
+      "Date": "11/01/1993",
+      "Category": "table"
+    },
+    {
+        "id": 2,
+        "Name": "Pachinko",
+        "Date": "10/05/2000",
+        "Category": "slot"
+    },
+    {
+        "id": 3,
+        "Name": "Bingo",
+        "Date": "30/02/2010",
+        "Category": "speciality"
+    },
+    {
+        "id": 4,
+        "Name": "Vr Slots",
+        "Date": "05/11/2005",
+        "Category": "vr"
+    }
+  ]
+  
